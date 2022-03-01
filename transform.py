@@ -276,3 +276,8 @@ def to_hex(matrix):
             outstr = outstr.replace('0x','')
             matrix[y][x] = outstr
     return matrix
+
+if __name__ == '__main__':
+    fname = sys.argv[1]
+    operation = sys.argv[2]
+    transform_image(fname, operation)
