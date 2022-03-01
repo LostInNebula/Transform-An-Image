@@ -6,4 +6,6 @@ Invert inverts the image, grayscale turns the image into grayscale, mirror mirro
 Any other function in this file was not written by me, and instead 2 examples and the functions that turn the bmp.file into a matrix provided by the professor. 
 To start run `python transform.py` and enter your choice of alteration, followed by the file name (ex: rightdiff(weddingphotos.bmp).
 
+[BMP.FILE MUST BE IN SAME DIRECTORY AS THE `transform.py`]
+
 This was made as an assignment for my computer science class
